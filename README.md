@@ -15,6 +15,8 @@ The dataset used is "Student Performance", which examines the factors influencin
 
 ### Target Variable
 - A measure of the overall performance of each student.
+### Data Source
+- https://www.kaggle.com/datasets/nikhil7280/student-performance-multiple-linear-regression
 
 ## Libraries
 - Numpy
